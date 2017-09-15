@@ -1,0 +1,25 @@
+{
+  "name": "sequence-frame",
+  "version": "1.0.0",
+  "description": "canvas绘制序列帧",
+  "main": "src/sequenceFrame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LoloSong/sequenceFrame.git"
+  },
+  "keywords": [
+    "canvas",
+    "sequence",
+    "frame",
+    "sequence-frame"
+  ],
+  "author": "lolosong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LoloSong/sequenceFrame/issues"
+  },
+  "homepage": "https://github.com/LoloSong/sequenceFrame#readme"
+}

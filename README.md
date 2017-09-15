@@ -3,6 +3,12 @@
 ### canvas绘制序列帧插件
 [项目地址](https://github.com/LoloSong/sequenceFrame)
 
+### npm下载
+```
+npm install sequence-fram
+
+```
+
 ##### 配置参数
 
 ```
