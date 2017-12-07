@@ -1,6 +1,6 @@
 {
   "name": "sequence-frame",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "canvas绘制序列帧",
   "main": "src/sequenceFrame.js",
   "scripts": {
