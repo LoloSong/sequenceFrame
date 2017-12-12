@@ -5,7 +5,7 @@
 
 ### npm下载
 ```
-npm install sequence-fram
+npm install sequence-frame
 
 ```
 
