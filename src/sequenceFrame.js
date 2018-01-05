@@ -25,6 +25,7 @@ function SequenceFrame(options) {
 
     //加载图片
     this.imgLoad();
+    this.num = 0;
 }
 
 SequenceFrame.prototype = {
